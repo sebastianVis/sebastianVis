@@ -30,6 +30,7 @@ I’m a Junior Software Developer
 <br>
 
 - **Database**:
+  
     ![MySQL](https://img.shields.io/badge/MySQL%20-%23434F6B.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
