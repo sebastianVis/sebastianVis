@@ -19,7 +19,16 @@ I’m a Junior Software Developer
   - Also PLC SIEMENS programming languages: LADDER and GRAFCET
 
 <br>   
-    
+
+- **Back-End Development**:
+
+   ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+   ![.NET](https://img.shields.io/badge/.NET%20-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+   ![Entity Framework](https://img.shields.io/badge/Entity%20Framework%20Core%20-%23007396.svg?style=for-the-badge&logo=.net&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>
+
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
